@@ -63,15 +63,9 @@
       </g>
     </svg>
   </div>
-  <p class="fuente">Fuente: OCDE</p>
 </div>
 
 <style>
-
-  .fuente {
-    font-size: 14px;
-    font-style: italic;
-  }
 
   h2 {
     font-size: 15px;

@@ -11,8 +11,7 @@
         x2={width}
         y1={yScale(tick)}
         y2={yScale(tick)}
-        stroke="black"
-        stroke-width=0.3px
+        stroke="hsla(215, 15%, 91%, 1)"
     />
     <text class="tick-text" x=-40 y={yScale(tick) - 6}>{tick}%</text>
 {/each}
