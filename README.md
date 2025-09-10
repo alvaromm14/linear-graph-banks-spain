@@ -1,1 +1,1 @@
-Gráfico con los activos en el extranjero de la banca española.
+Visualización con un gráfico interactivo sobre la evolución del salario real en España.

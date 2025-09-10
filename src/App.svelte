@@ -43,7 +43,6 @@
 </script>
 
 <div class="main" bind:clientWidth={width}>
-  <h1>El negocio de la banca española en el extranjero</h1>
   <h2>Activos fuera de España</h2>
   <div class="chart-container">
     <svg {width} {height}>
@@ -74,13 +73,6 @@
     font-style: italic;
     text-align: center;
     position: relative;
-  }
-
-  h1 {
-    font-size: 20px;
-    margin-bottom: 3px;
-    font-weight: 600;
-    text-align: center;
   }
 
   /* Estilos para dispositivos con pantallas más grandes (ordenadores) */
